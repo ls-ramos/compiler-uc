@@ -6,8 +6,8 @@ uC is a simplified version of C, with a subset of the language features.
 
 uC follows the following specifications:
 
-- [BNF grammar specification](https://github.com/ls-ramos/uc-compiler/blob/main/docs/bnf_grammar.md)
-- [Semantic rules](https://github.com/ls-ramos/uc-compiler/blob/main/docs/semantic_rules.md)
+- [BNF grammar specification](https://github.com/ls-ramos/compiler-uc/blob/main/docs/bnf_grammar.md)
+- [Semantic rules](https://github.com/ls-ramos/compiler-uc/blob/main/docs/semantic_rules.md)
 
 ## About
 
